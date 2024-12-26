@@ -1,6 +1,6 @@
 import HeaderBox from '@/components/ui/HeaderBox'
 import TransactionsTable from '@/components/ui/TransactionsTable';
-import { Pagination } from '@/components/ui/pagination';
+import { Pagination } from '@/components/ui/Pagination';
 import { getAccount, getAccounts } from '@/lib/actions/bank.actions';
 import { getLoggedInUser } from '@/lib/actions/user.actions';
 import { formatAmount } from '@/lib/utils';
