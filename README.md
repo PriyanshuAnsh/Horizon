@@ -2,8 +2,6 @@
 
 Horizon is a modern banking application designed to simplify financial management. Built with a focus on clean, responsive design and seamless user experience, it provides users with real-time access to their banking data and actionable insights through advanced visualization tools.
 
-![Dashboard Screenshot](./path-to-your-image.png)
-
 ## Features
 
 - **Real-Time Banking Data**: Securely access and display up-to-date banking data using the Plaid API.
